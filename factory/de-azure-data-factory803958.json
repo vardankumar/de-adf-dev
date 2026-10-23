@@ -1,0 +1,15 @@
+{
+	"name": "de-azure-data-factory803958",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "da3e6072-4900-4f9c-b419-0603c759742a",
+		"tenantId": "479cc69d-e3c4-4ac4-bb3c-75f1659f88ee"
+	}
+}
